@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Md Shahriar Iqbal
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Md Shahriar Iqbal
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Md Shahriar
+last_name: Iqbal
 
 # Status emoji
 status:
@@ -17,34 +17,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: CS PhD Candidate@University of South Carolina
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SUniversity of South Carolina
+    url: https://www.cse.sc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD candidate in the Computer Science and Engineering department at University of South Carolina Columbia SC. My research interest is in the area of performance optimization and debugging of highly configurable software systems. I am currently working at AISys Lab under supervision of Dr. Pooyan Jamshidi.
+
+Prior to joining PhD, I worked as a System Software Engineer for three years at Hewlett Packard Enterprise Houston TX. I completed my Masters in Electrical Engineering from University of Central Florida Orlando FL and Bachelors in Applied Physics, Electronics and Comunication Engineering from University of Dhaka Bangladesh.
+
+I am actively looking for Post-doctoral and Research Scientist postions. Please do not hesitate to reach out to me at miqbal@email.sc.edu
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Systems Performance
+  - Configurable Systems
+  - Causal Inference
+  - Compiler Optimization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science and Engineering
+      institution: University of South Carolina
+      year: 2023
+    - course: MS in Electrical Engineering
+      institution: University of Central Florida
+      year: 2014
+    - course: BS in Applied Physics, Electronics and Communication Engineering
+      institution: University of Dhaka
+      year: 2011
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -94,21 +99,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=vJaD3Q8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/iqbal128855/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shahriariqbal/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +119,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in the Computer Science and Engineering department at University of South Carolina Columbia SC. My research interest is in the area of performance optimization and debugging of highly configurable software systems. I am currently working at AISys Lab under supervision of Dr. Pooyan Jamshidi.
+
+Prior to joining PhD, I worked as a System Software Engineer for three years at Hewlett Packard Enterprise Houston TX. I completed my Masters in Electrical Engineering from University of Central Florida Orlando FL and Bachelors in Applied Physics, Electronics and Comunication Engineering from University of Dhaka Bangladesh.
+
+I am actively looking for Post-doctoral and Research Scientist postions. Please do not hesitate to reach out to me at miqbal@email.sc.edu
 {style="text-align: justify;"}
